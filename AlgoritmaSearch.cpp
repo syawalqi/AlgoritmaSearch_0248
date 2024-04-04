@@ -75,6 +75,6 @@ int main()
 {
     input();
     LinearSearch();
-    display();
+    display();
 }
 
